@@ -20,9 +20,18 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
-//Part 8 - SW#1
+//<--Week 2 Swift Playgrounds #1 Part 8 SOLUTION-->
 
+//#1
+var hello = "Hi, my name is"
+var name = " Marion Ano"
+var classes = " and I teach CM 160, CM 161 and CM 400C"
+//#2
+var introductions = hello + name + classes
+//#3
+print(introductions)
 
+//____________________________________________
 
 //Assignment #2: Introduction to True and False Class 4 Thursday 1.21.21
 
@@ -38,6 +47,21 @@ var numberTwo = 7
 var comparison = numberOne > numberTwo
 
 print(comparison)
+
+//<--WeeK 2 Assignment #2 Part 7 SOLUTION-->
+
+//#1
+var firstString = "I live in Hawaiʻi"
+var secondString = "Where do you live?"
+
+//#2
+var result = firstString == secondString
+print(result)
+
+
+
+
+
 
 
 
